@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-dust/__init__.py
-dust/core.py
-dust.egg-info/PKG-INFO
-dust.egg-info/SOURCES.txt
-dust.egg-info/dependency_links.txt
-dust.egg-info/requires.txt
-dust.egg-info/top_level.txt
